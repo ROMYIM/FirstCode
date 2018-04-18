@@ -1,0 +1,11 @@
+C:\Users\PC-001\source\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.deps.json
+C:\Users\PC-001\source\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.runtimeconfig.json
+C:\Users\PC-001\source\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.runtimeconfig.dev.json
+C:\Users\PC-001\source\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.dll
+C:\Users\PC-001\source\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.pdb
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.csprojResolveAssemblyReference.cache
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.csproj.CoreCompileInputs.cache
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.AssemblyInfoInputs.cache
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.AssemblyInfo.cs
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.dll
+C:\Users\PC-001\source\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.pdb
